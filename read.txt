@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 hhhhhhhhhhhhhhh
+=======
+hello world
+How are you
+I'm good
+>>>>>>> c4c70b1c8ad0167ee4d18f2a37184fc59bbdcd8a
